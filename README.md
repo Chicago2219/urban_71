@@ -8,3 +8,5 @@
 6. git add name_file.extensions
 7. git commit -m 'text message'
 8. git push
+
+Вы клевые ребята!
